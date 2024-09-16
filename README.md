@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdenJWong
 - 👀 I’m interested in computers and healthcare
-- 🌱 I’m currently learning biomedical computing at Queen's University
+- 🌱 I’m currently studying biomedical computing at Queen's University
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me aden.j.wong@gmail.com
 
